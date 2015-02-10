@@ -1,9 +1,0 @@
----
-layout: default
-img: robo.png
-category: Services
-title: Be partners with our experienced team
-description: |
-  <p class="lead">Rob pranging out.</p>
-
----

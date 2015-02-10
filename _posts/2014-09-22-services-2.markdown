@@ -1,9 +1,0 @@
----
-layout: default
-img: stroo.png
-category: Services
-title: Something about clients <br>by PSDCovers
-description: |
-  <p class="lead">We lanuched these guys, they did ded good</p>
-
----

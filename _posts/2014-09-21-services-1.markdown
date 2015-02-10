@@ -1,9 +1,0 @@
----
-layout: default
-img: cycle.png
-category: Services
-title: Making ideas a reality
-description: |
-  <p class="lead">CrowdReach help to change this by offering our experienced team who work closely with entrepreneurs to crowdfund their products and ideas, with the aim to make these innovations a reality. </p>
-
----
